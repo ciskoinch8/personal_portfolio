@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600&family=Poppins:ital,wght@0,300;1,300&display=swap');
 
 :root{
-    --yellow: #f9ca24;
+    --yellow: purple;
 }
 
 *{
@@ -49,7 +49,7 @@ section{
     border-radius: 5rem;
 }
 .btn i{
-    padding: 0 5rem;
+    padding: 0.5rem;
     font-size: 1.8rem;
 }
 .btn:hover{
@@ -325,7 +325,7 @@ header .navbar ul li a:hover{
 .img_scroll{
     height: 80px;
     width: 80px;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 .top:hover img{
     transform: scale(1.2);
